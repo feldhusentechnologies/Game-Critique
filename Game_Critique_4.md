@@ -18,6 +18,7 @@ A game that pits players from around the world against each other--and devious A
 
 # Game Play Summary
 ## Playability
+Plays almost like a real life poker game. With an add sense of ridiculousness.
 ### Single/Multiplayer
 ### Controls
 
