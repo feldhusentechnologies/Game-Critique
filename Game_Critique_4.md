@@ -1,20 +1,20 @@
 # Information
 ## Game Title
-Full title of the game.
+Prominence Poker
 ## Game Type
-The genre and play style of the game
+Strategy, Casual, Multiplayer
 ## Platform
-What systems do they play on besides the PC master race?
+PS4, Xbox 1, PC
 ## Game Rating
-metacritic score 
+6.8 User score
 ## Publisher
-who released this pile of code
+505 Games
 ## Developer
-Who made this pile of code
+Pipeworks Software
 ## Publishing Date
-When did they make it?
+2016
 # Synopsis
-Game premise or short one to two sentence overview
+A game that pits players from around the world against each other--and devious AI--to build the rep, prestige, and bankroll needed to be, and beat, the best of the best.
 
 # Game Play Summary
 ## Playability
