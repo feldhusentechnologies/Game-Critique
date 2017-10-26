@@ -20,10 +20,13 @@ A game that pits players from around the world against each other--and devious A
 ## Playability
 Plays almost like a real life poker game. With an add sense of ridiculousness.
 ### Single/Multiplayer
+Single player against A.I. and multiplayer against other players.
 ### Controls
+Controls are good after a little play time.
 
 # Bugs
-What bugs happened during your critique.
+Against A.I. the game seems a little predetermend and or rigged.
+Against players you can tell whos good and whose not by the rep level of each player.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+its fun if u know how to play poker. If not your gonna have a bad time. Thats kind of how this game boils down. That and a small amount of luck and or faith in the cards. 
 
