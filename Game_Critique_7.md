@@ -1,28 +1,29 @@
 # Information
 ## Game Title
-Full title of the game.
+Scary Maze Game
 ## Game Type
-The genre and play style of the game
+Casual game
 ## Platform
-What systems do they play on besides the PC master race?
+online game
 ## Game Rating
-metacritic score 
+n/a
 ## Publisher
-who released this pile of code
+playscarymazegame.net
 ## Developer
-Who made this pile of code
+Scary maze
 ## Publishing Date
-When did they make it?
+n/a
 # Synopsis
-Game premise or short one to two sentence overview
-
+Maze game were the only real goal is to get scared. Source of many internet memes and prank videos.
 # Game Play Summary
 ## Playability
+Only good to play until you get to a certin level then something scary pops out and its done.
 ### Single/Multiplayer
+single player
 ### Controls
+Uses mouse for directional movements making game a little tougher.
 
 # Bugs
-What bugs happened during your critique.
+Sometimes touching the wall would restart the game other times it didnt.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
-
+Great way to prank someone who isnt on the internet often. other that not much of a point to it.
