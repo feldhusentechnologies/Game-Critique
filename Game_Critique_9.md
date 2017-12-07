@@ -1,27 +1,29 @@
 # Information
 ## Game Title
-Full title of the game.
+50 Loops
 ## Game Type
-The genre and play style of the game
+Casual mobile game
 ## Platform
-What systems do they play on besides the PC master race?
+Android 
 ## Game Rating
-metacritic score 
+4.1/5 on Google play
 ## Publisher
-who released this pile of code
+Google Play
 ## Developer
-Who made this pile of code
+Motionlab Interactive
 ## Publishing Date
-When did they make it?
+N/A
 # Synopsis
-Game premise or short one to two sentence overview
+Jump over blocks to get to the gleaming city.
 
 # Game Play Summary
 ## Playability
+Great way to spend some extra time. Fun and graphiclly apealing.
 ### Single/Multiplayer
+single player.
 ### Controls
-
+a series of taps on the screen.
 # Bugs
-What bugs happened during your critique.
+N/A
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+I dont do alot of mobile gaming. But, when I do I perfer ones that are addictive to play. With its simplistic gamplay reminiscent of some of the best mobile games in the past like the rage inducing flappy birds. 50 Loops has that along with a Tron futuristic feel and graphics. Along with the music this game is a great casuel game on android. 
